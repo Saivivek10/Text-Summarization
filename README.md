@@ -17,6 +17,15 @@ This project is a **Streamlit web application** that leverages the **LangChain f
 - `requirements.txt`: Lists all the dependencies required to run the project.
 - `apjspeech.pdf`: A sample PDF file used for testing document summarization.
 
+## Screenshots
+
+<img width="1512" height="982" alt="Youtube" src="https://github.com/user-attachments/assets/0a87a391-5eb1-453a-9e66-a66f8ebece83" />
+
+
+
+<img width="1512" height="982" alt="Website" src="https://github.com/user-attachments/assets/701f881d-5486-4df3-a82f-a07d110ee2d8" />
+
+
 ## Installation
 
 1. Clone the repository:
